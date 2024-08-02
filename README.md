@@ -21,7 +21,8 @@
 <p align="center">
 
 - **Languages**:
-  ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
+  
+  ' ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
 - **Front-End skills**:
@@ -43,7 +44,7 @@
 </p>
 
 <div align="center">
-
+<br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=DaviRocha027&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="DaviRocha027"/>
 
 </a>
