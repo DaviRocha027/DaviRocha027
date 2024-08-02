@@ -24,10 +24,7 @@
   ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 
 
-
-<br>   
-    
-- **Front-End Development**:
+- **Front-End skills**:
 
    ![HTML5](https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
    ![CSS3](https://img.shields.io/badge/CSS%20-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -42,18 +39,8 @@
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
-<br>
-
-   
 
 </p>
-
-<br>
-<br>
-
------
-
-<br>
 
 <div align="center">
 
@@ -62,14 +49,6 @@
 </a>
 </div>
 
-<br>
-<br>
-<br>
-
------
-
-<br>
-<br>
 
 ## <b> Entre em contato...!</b><img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width ="80">
 <br>
@@ -83,8 +62,6 @@
 </a>
 </li>
 
-<br>
-
 <li>
 <a href="mailto:davirochacard@gmail.com" target="_blank">
 <img src="https://img.shields.io/badge/gmail:  Davi Rocha-%23EA4335.svg?style=for-the-badge&logo=gmail&logoColor=white" t=mail style="margin-bottom: 5px;" />
@@ -96,9 +73,6 @@
 
 <br>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<br>
-<br>
-<br>
 
 <div align='center'>
 
